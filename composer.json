@@ -1,0 +1,8 @@
+{
+  "name": "dbberlin/greeterwons",
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
